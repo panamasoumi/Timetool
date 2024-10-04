@@ -46,10 +46,6 @@
    - Click `Start Stopwatch` to begin tracking time.
    - Use `Stop Stopwatch` to pause and `Reset Stopwatch` to clear the time.
 
-## Screenshots
-
-![Time Counter UI](link-to-screenshot.png)  
-_A preview of the Time Counter application._
 
 ## License
 
